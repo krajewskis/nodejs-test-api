@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "idResource": 1,
+    "relation": "test1"
+  },
+  {
+    "id": 2,
+    "idResource": 1,
+    "relation": "test2"
+  },
+  {
+    "id": 3,
+    "idResource": 2,
+    "relation": "test3"
+  }
+]
